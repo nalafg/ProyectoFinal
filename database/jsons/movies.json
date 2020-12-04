@@ -1,0 +1,62 @@
+[
+	{
+		"title": "El Justiciero",
+		"description": "Una paleontóloga de Nueva York se dirige a Maine, donde oficiales locales de Caza y Pesca han aparentemente descubierto a un gigantesco cocodrilo de nueve metros que parece habitar en uno de los lagos de la localidad.",
+		"classification": "B15",
+		"minutes": 131,
+		"year": 2014,
+		"cover": "justiciero.png",
+		"trailer": "https://www.youtube.com/watch?v=j7RlqH5PXLo",
+		"category_id": 4
+	},
+	{
+		"title": "Película 2",
+		"description": "Una paleontóloga de Nueva York se dirige a Maine, donde oficiales locales de Caza y Pesca han aparentemente descubierto a un gigantesco cocodrilo de nueve metros que parece habitar en uno de los lagos de la localidad.",
+		"classification": "B15",
+		"minutes": 131,
+		"year": 2014,
+		"cover": "movie.png",
+		"trailer": "https://www.youtube.com/watch?v=j7RlqH5PXLo",
+		"category_id": 3
+	},
+	{
+		"title": "Película 3",
+		"description": "Una paleontóloga de Nueva York se dirige a Maine, donde oficiales locales de Caza y Pesca han aparentemente descubierto a un gigantesco cocodrilo de nueve metros que parece habitar en uno de los lagos de la localidad.",
+		"classification": "B15",
+		"minutes": 131,
+		"year": 2014,
+		"cover": "movie.png",
+		"trailer": "https://www.youtube.com/watch?v=j7RlqH5PXLo",
+		"category_id": 1
+	},
+	{
+		"title": "Película 4",
+		"description": "Una paleontóloga de Nueva York se dirige a Maine, donde oficiales locales de Caza y Pesca han aparentemente descubierto a un gigantesco cocodrilo de nueve metros que parece habitar en uno de los lagos de la localidad.",
+		"classification": "B15",
+		"minutes": 131,
+		"year": 2014,
+		"cover": "movie.png",
+		"trailer": "https://www.youtube.com/watch?v=j7RlqH5PXLo",
+		"category_id": 4
+	},
+	{
+		"title": "Película 5",
+		"description": "Una paleontóloga de Nueva York se dirige a Maine, donde oficiales locales de Caza y Pesca han aparentemente descubierto a un gigantesco cocodrilo de nueve metros que parece habitar en uno de los lagos de la localidad.",
+		"classification": "B15",
+		"minutes": 131,
+		"year": 2014,
+		"cover": "movie.png",
+		"trailer": "https://www.youtube.com/watch?v=j7RlqH5PXLo",
+		"category_id": 5
+	},
+	{
+		"title": "Película 6",
+		"description": "Una paleontóloga de Nueva York se dirige a Maine, donde oficiales locales de Caza y Pesca han aparentemente descubierto a un gigantesco cocodrilo de nueve metros que parece habitar en uno de los lagos de la localidad.",
+		"classification": "B15",
+		"minutes": 131,
+		"year": 2014,
+		"cover": "movie.png",
+		"trailer": "https://www.youtube.com/watch?v=j7RlqH5PXLo",
+		"category_id": 6
+	}
+]
